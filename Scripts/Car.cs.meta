@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2be8a2d468eb3646a74d9f3a71d91bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - skidMark: {fileID: 15870710528074573, guid: 48de7037393c5c346a451e8d45126bda, type: 3}
+  - rB: {instanceID: 0}
+  - back: {instanceID: 0}
+  - ragdoll: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
